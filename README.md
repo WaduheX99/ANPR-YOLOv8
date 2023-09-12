@@ -1,6 +1,6 @@
 <H1 align="center">Automatic Number Plate Recognition using YOLOv8</H1>
-![alt text](https://github.com/WaduheX99/ANPR-YOLOv8/blob/main/img/yolov8.png)
 
+![alt text](https://github.com/WaduheX99/ANPR-YOLOv8/blob/main/img/yolov8.png)
 This project was created using Python with Yolo V8 to recognize the number plates and EasyOCR to read the plates
 
 # Setup
