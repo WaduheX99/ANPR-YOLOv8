@@ -13,11 +13,9 @@ This project was created using Python with Yolo V8 to recognize the number plate
 ![](./img/data.png)
 ```https://universe.roboflow.com/matheus-santos-almeida/car_license_plate/dataset/1```
 - Download the weight I use
-```!gdown "https://drive.google.com/uc?id=1dIyJooVaowaNUj0R1Q-HUnu-utiGsEj8&confirm=t"
-```
+```!gdown "https://drive.google.com/uc?id=1dIyJooVaowaNUj0R1Q-HUnu-utiGsEj8&confirm=t"```
 - Process the video that you want to detect
-```!python predict.py model='weightFile.pt' source='demo.mp4'
-```
+```!python predict.py model='weightFile.pt' source='demo.mp4'```
 
 # Result
 ![](./result/car1.gif)
