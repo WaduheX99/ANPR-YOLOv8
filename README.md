@@ -10,7 +10,7 @@ This project was created using Python with Yolo V8 to recognize the number plate
 - You can skip the clone session if you have downloaded the manual file from this repository.
 ![](./img/clone.png)
 - You can change the dataset for training later. In this case, I used a dataset from roboflow.
-![](./img/dataset.png)
+![](./img/data.png)
 ```https://universe.roboflow.com/matheus-santos-almeida/car_license_plate/dataset/1```
 - Download the weight I use
 ```!gdown "https://drive.google.com/uc?id=1dIyJooVaowaNUj0R1Q-HUnu-utiGsEj8&confirm=t"
